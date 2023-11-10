@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kalifornia-girl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m kali aka kalifornia
+- 👀 I’m interested in canyyyy
+- 🌱 I’m currently learning how to use this thing
+- 💞️ I’m looking to collaborate on making games for kids at school to polay that arent blocked
+- 📫 How to reach me you dont yet
 
 <!---
 kalifornia-girl/kalifornia-girl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
