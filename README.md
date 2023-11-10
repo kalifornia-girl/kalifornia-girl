@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kali aka kalifornia
 - 👀 I’m interested in canyyyy
 - 🌱 I’m currently learning how to use this thing
-- 💞️ I’m looking to collaborate on making games for kids at school to polay that arent blocked
+- 💞️ I’m looking to collaborate on making games for kids at school to play that arent blocked
 - 📫 How to reach me you dont yet
 
 <!---
